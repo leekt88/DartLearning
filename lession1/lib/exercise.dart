@@ -8,7 +8,7 @@ void main() {
     int ageFeature = 100;
 
     try {
-      print("Enter your name:");
+      print("Please Enter your name:");
       String? name = stdin.readLineSync();
 
       print("Enter your age:");
